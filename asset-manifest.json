@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7826885d.chunk.css",
+    "main.js": "/static/js/main.178a361f.chunk.js",
+    "main.js.map": "/static/js/main.178a361f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1aa532af.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1aa532af.js.map",
+    "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
+    "static/js/2.d648e0e4.chunk.js": "/static/js/2.d648e0e4.chunk.js",
+    "static/js/2.d648e0e4.chunk.js.map": "/static/js/2.d648e0e4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
+    "static/css/main.7826885d.chunk.css.map": "/static/css/main.7826885d.chunk.css.map",
+    "static/js/2.d648e0e4.chunk.js.LICENSE.txt": "/static/js/2.d648e0e4.chunk.js.LICENSE.txt",
+    "static/media/Avatar1.12adf8f6.svg": "/static/media/Avatar1.12adf8f6.svg",
+    "static/media/Avatar2.98c85316.svg": "/static/media/Avatar2.98c85316.svg",
+    "static/media/Avatar3.b14beb8c.svg": "/static/media/Avatar3.b14beb8c.svg",
+    "static/media/Avatar4.c07d7c42.svg": "/static/media/Avatar4.c07d7c42.svg",
+    "static/media/Avatar5.7215a19b.svg": "/static/media/Avatar5.7215a19b.svg",
+    "static/media/Trash.9499469b.svg": "/static/media/Trash.9499469b.svg",
+    "static/media/aue.eeb5ef40.svg": "/static/media/aue.eeb5ef40.svg",
+    "static/media/click.af9016e5.svg": "/static/media/click.af9016e5.svg",
+    "static/media/dollor.0908de5d.svg": "/static/media/dollor.0908de5d.svg",
+    "static/media/fot1.532c95f7.png": "/static/media/fot1.532c95f7.png",
+    "static/media/fot2.bf3926bf.png": "/static/media/fot2.bf3926bf.png",
+    "static/media/fot3.532c95f7.png": "/static/media/fot3.532c95f7.png",
+    "static/media/fot4.22f384f3.png": "/static/media/fot4.22f384f3.png",
+    "static/media/fot5.8cf542d1.png": "/static/media/fot5.8cf542d1.png",
+    "static/media/fot6.22f384f3.png": "/static/media/fot6.22f384f3.png",
+    "static/media/person.c5c0b1ae.svg": "/static/media/person.c5c0b1ae.svg",
+    "static/media/plus.43e7af92.svg": "/static/media/plus.43e7af92.svg",
+    "static/media/progres.cbdaa1e5.svg": "/static/media/progres.cbdaa1e5.svg",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aa532af.js",
+    "static/css/2.19627560.chunk.css",
+    "static/js/2.d648e0e4.chunk.js",
+    "static/css/main.7826885d.chunk.css",
+    "static/js/main.178a361f.chunk.js"
+  ]
+}
